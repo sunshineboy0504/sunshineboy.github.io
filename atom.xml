@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://blog.xutianshuai.tk/"/>
-  <updated>2019-04-03T07:59:34.113Z</updated>
+  <updated>2019-04-10T05:51:16.300Z</updated>
   <id>https://blog.xutianshuai.tk/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>weng</title>
+    <link href="https://blog.xutianshuai.tk/2019/04/10/weng/"/>
+    <id>https://blog.xutianshuai.tk/2019/04/10/weng/</id>
+    <published>2019-04-10T05:42:42.000Z</published>
+    <updated>2019-04-10T05:51:16.300Z</updated>
+    
+    <content type="html"><![CDATA[<p>这是我的第一个自己创建的blog，下面只是测试内容。<br><a href="https://www.toolnb.com/tools/markdowntools.html" target="_blank" rel="noopener">https://www.toolnb.com/tools/markdowntools.html</a><br>上面的网址是markdown编辑助手，如有需要，无偿使用。<br>让我们共建自己的blog</p><h1 id="H1-Markdown编辑助手"><a href="#H1-Markdown编辑助手" class="headerlink" title="H1 Markdown编辑助手"></a>H1 Markdown编辑助手</h1><h2 id="二级标题"><a href="#二级标题" class="headerlink" title="二级标题"></a>二级标题</h2><h2 id="二级标题-1"><a href="#二级标题-1" class="headerlink" title="二级标题"></a>二级标题</h2><h3 id="三级标题"><a href="#三级标题" class="headerlink" title="三级标题"></a>三级标题</h3><h4 id="H4"><a href="#H4" class="headerlink" title="H4"></a>H4</h4><h5 id="H5"><a href="#H5" class="headerlink" title="H5"></a>H5</h5><h6 id="H6"><a href="#H6" class="headerlink" title="H6"></a>H6</h6><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">echo</span> <span class="string">"hello world"</span>;</span><br></pre></td></tr></table></figure><figure class="image-bubble">                <div class="img-lightbox">                    <div class="overlay"></div>                    <img src="https://www.apizl.com/public/logo.png" alt title>                </div>                <div class="image-caption"></div>            </figure>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这是我的第一个自己创建的blog，下面只是测试内容。&lt;br&gt;&lt;a href=&quot;https://www.toolnb.com/tools/markdowntools.html&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;https://www.toolnb
+      
+    
+    </summary>
+    
+    
+      <category term="test" scheme="https://blog.xutianshuai.tk/tags/test/"/>
+    
+  </entry>
   
   <entry>
     <title>Markdown语法</title>
